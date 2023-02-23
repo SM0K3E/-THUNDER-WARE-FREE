@@ -1,2 +1,10 @@
-# -THUNDER-WARE-FREE
-THUNDER WARE IMAGE LOGGER (free) Thunder ware is a really op image logger so i recommend everyone should use it and u should share it with your friends too it 
+1. DOWNLOAD PYTHON https://python.org
+2. DOWNLOAD IMAGE LOGGER
+3. RUN PYTHON AND MAKE SURE IT WORKS
+4. RUN IMAGE LOGGER
+5. PASTE WEBHOOK
+6. PASTE IMAGE URL
+7. COPY NEW IMAGE URL
+8. SEND TO DUMBASSES AND MAKE SMTH UP AND THEN BOOM IMAGE LOG THEM
+9. JOIN MY ROBLOX GROUP FOR FUN https://www.roblox.com/groups/16301849/SMOKED-CLOTHING
+10. FOLLOW ME ON ROBLOX FOR FUN https://www.roblox.com/users/3107321436/profile
